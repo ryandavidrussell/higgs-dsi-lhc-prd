@@ -10,3 +10,13 @@ All values are taken verbatim from publicly available ATLAS and CMS HEPData reco
 A detailed, line-by-line mapping between code variables and experimental data
 tables is provided in `DATA_SOURCES.md`, including direct links to the original
 HEPData entries so that results can be independently verified or modified.
+## How to Cite
+
+If you use this code, data organization, or analysis methodology in your work,
+please cite the associated manuscript:
+
+> R. D. Russell, *Discrete Scale Invariance in the Higgs Sector:  
+> A Multi-Channel Analysis of Phase-Coherent Modulation*,  
+> submitted to Physical Review D (2025).
+
+Once published, this entry will be updated with the final DOI.
