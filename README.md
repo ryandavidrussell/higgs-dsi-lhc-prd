@@ -1,42 +1,47 @@
-# Discrete Scale Invariance in the Higgs Sector (PRD Submission)
+# Discrete Scale Invariance in the Higgs Sector (PRD Companion Repository)
 
 This repository accompanies the Physical Review D submission:
 
 **“Discrete Scale Invariance in the Higgs Sector: A Multi-Channel Analysis of Phase-Coherent Modulation”**
 
 Author: Ryan D. Russell  
-Affiliation: Horizon Code Initiative / Quesmart Research Group
+Affiliation: Horizon Code Initiative / Quesmart Research Group  
 
 ---
 
 ## Purpose of This Repository
 
-This repository provides:
-- Exact analysis scripts used in the paper
-- Hard-coded numerical values extracted from public ATLAS and CMS HEPData tables
-- Figures reproduced directly from the analysis
-- Complete manuscript source (LaTeX) and appendices
+This repository provides full transparency for the analysis reported in the PRD submission.
 
-The repository is intended for **reproducibility, transparency, and referee audit**, not as a software library.
+Specifically, it contains:
+- The exact analysis scripts used to generate figures
+- Hard-coded numerical inputs extracted from public ATLAS and CMS HEPData tables
+- All generated figures appearing in the manuscript
+- Full LaTeX source of the manuscript, appendices, and cover letter
+
+The repository is intended for **reproducibility and referee inspection**, not as a software package.
 
 ---
 
 ## Data Policy
 
-No proprietary or restricted data are included.
+No proprietary or collaboration-internal data are used.
 
-All numerical values are:
-- **Manually extracted** from public HEPData tables
-- **Hard-coded intentionally** to eliminate API or backend dependence
-- Fully referenced with direct URLs in `data_sources/`
+All numerical inputs were:
+- Extracted manually from **public HEPData records**
+- Hard-coded deliberately to avoid API dependence
+- Fully cited with direct URLs
 
-Readers are encouraged to retrieve the original datasets independently and verify correspondence.
+Readers are encouraged to independently retrieve the original datasets.
 
 ---
 
-## How to Reproduce Figures
+## Scope of Analysis
 
-```bash
-pip install -r analysis/requirements.txt
-python analysis/fit_global.py
-python analysis/plot_residuals.py
+Included Higgs Run-2 channels:
+- ATLAS ggF H → WW*
+- CMS VBF H → γγ
+- ATLAS ggF H → γγ
+- ATLAS ggF H → ZZ*
+
+This analysis does **not** claim discovery-level significance and is explicitly falsifiable with Run-3 data.
