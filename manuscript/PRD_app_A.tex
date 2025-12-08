@@ -1,0 +1,32 @@
+\section{Data Sources and Exact Inputs}
+\label{app:data}
+
+All numerical inputs used in the profile likelihood analysis presented in this work are taken directly from public ATLAS and CMS measurements released via HEPData. No Monte Carlo augmentation, smoothing, or rebinning beyond published bin definitions has been applied.
+
+For transparency and reproducibility, the analysis code employs hard-coded numerical arrays corresponding exactly to the published tables listed below. This choice avoids ambiguities associated with data scraping, format changes, or undocumented preprocessing.
+
+\subsection*{Channels Used}
+
+\begin{itemize}
+\item \textbf{ATLAS $ggF\,H \rightarrow WW^*$}  
+Run~2, 8 TeV fiducial differential cross-section  
+HEPData record: \texttt{ins1444991}, Table~3
+
+\item \textbf{CMS VBF $H \rightarrow \gamma\gamma$}  
+Run~2, 13 TeV differential spectrum  
+HEPData record: \texttt{ins2142341}, Table~3
+
+\item \textbf{ATLAS $ggF\,H \rightarrow \gamma\gamma$}  
+Run~2, 13 TeV  
+HEPData record: \texttt{ins1674946}, Table~1
+
+\item \textbf{ATLAS $ggF\,H \rightarrow ZZ^*$}  
+Run~2, 13 TeV  
+HEPData record: \texttt{ins1615206}, Table~1
+\end{itemize}
+
+All covariance matrices are included where available. When full covariances are not published, conservative diagonal approximations using published statistical and systematic uncertainties are employed. A complete record of these arrays is included in the accompanying GitHub repository.
+
+\subsection*{Repository}
+\noindent
+\url{https://github.com/<username>/<repo-name>}
