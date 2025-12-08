@@ -1,0 +1,16 @@
+\section{Statistical Robustness and Null Behavior}
+\label{app:robustness}
+
+To assess the stability of the observed modulation, we performed a series of robustness checks designed to identify effects associated with overfitting, transient dynamics, or rare-event statistics.
+
+\subsection*{Amplitude Constraints}
+All signal fits enforce a strict physical prior $|\alpha| \leq 0.15$, ensuring the analysis remains within the perturbative regime of an Effective Field Theory. No improvement was observed when allowing larger amplitudes; unconstrained fits saturate the bound only in the highest-resolution channel.
+
+\subsection*{Frequency Scans}
+Exploratory scans over logarithmic frequencies outside the Golden Ratio value were performed for validation purposes only. No comparable cross-channel phase coherence was observed at alternative frequencies. These scans are not used for inference.
+
+\subsection*{Bootstrap Stability}
+Resampling tests within published covariance constraints show that the extracted phase remains stable to within uncertainties, indicating that the signal is not driven by single-bin fluctuations.
+
+\subsection*{Null Hypothesis Behavior}
+Fits with scrambled phases, shuffled bins, or randomized channel ordering yield no statistically significant preference over the null model. This confirms that the likelihood gain arises from coherent structure rather than local excesses.
