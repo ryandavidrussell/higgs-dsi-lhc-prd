@@ -45,3 +45,12 @@ Included Higgs Run-2 channels:
 - ATLAS ggF H → ZZ*
 
 This analysis does **not** claim discovery-level significance and is explicitly falsifiable with Run-3 data.
+## How to Cite
+
+If you use this code or analysis, please cite:
+
+R. D. Russell,  
+“Discrete Scale Invariance in the Higgs Sector: A Multi-Channel Analysis of Phase-Coherent Modulation,”  
+submitted to *Physical Review D* (2025).
+
+A BibTeX entry is provided in `manuscript/higgs_dsi.bib`.
