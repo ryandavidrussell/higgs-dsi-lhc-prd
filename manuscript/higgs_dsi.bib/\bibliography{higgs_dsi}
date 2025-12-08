@@ -1,0 +1,88 @@
+@article{Sornette1998,
+  title={Discrete Scale Invariance and Complex Dimensions},
+  author={Sornette, Didier},
+  journal={Physics Reports},
+  volume={297},
+  pages={239--270},
+  year={1998}
+}
+
+@book{Gutzwiller1990,
+  title={Chaos in Classical and Quantum Mechanics},
+  author={Gutzwiller, Martin C.},
+  publisher={Springer},
+  year={1990}
+}
+
+@article{Cavalcante2013,
+  title={Predictability and suppression of extreme events in a chaotic system},
+  author={Cavalcante, Hugo L. D. S. and Ori{\'a}, Marcos and Sornette, Didier and Ott, Edward and Gauthier, Daniel J.},
+  journal={Physical Review Letters},
+  volume={111},
+  number={19},
+  pages={198701},
+  year={2013}
+}
+
+@article{Meiyazhagan2021,
+  title={Model-free prediction of emergence of extreme events in a parametrically driven nonlinear dynamical system by deep learning},
+  author={Meiyazhagan, J. and Sudharsan, S. and Senthilvelan, M.},
+  journal={European Physical Journal B},
+  volume={94},
+  number={8},
+  pages={156},
+  year={2021}
+}
+
+@article{Yu2022,
+  title={Transient behaviors and equilibria-analysis-based boundary crisis analysis in a smooth 4D dynamical system},
+  author={Yu, Hui and Du, Shengzhi and Dong, Enzeng and Tong, Jigang},
+  journal={Chaos, Solitons \& Fractals},
+  volume={160},
+  pages={112220},
+  year={2022}
+}
+
+@article{Kaviya2023,
+  title={Route to extreme events in a parametrically driven position-dependent nonlinear oscillator},
+  author={Kaviya, B. and Gopal, R. and Suresh, R. and Chandrasekar, V. K.},
+  journal={European Physical Journal Plus},
+  volume={138},
+  number={1},
+  pages={36},
+  year={2023}
+}
+
+@article{Kim2004,
+  title={Universal mechanism for the intermittent route to strange nonchaotic attractors in quasiperiodically forced systems},
+  author={Kim, Sang-Yoon and Lim, Woochang},
+  journal={Journal of Physics A},
+  volume={37},
+  number={25},
+  pages={6477--6496},
+  year={2004}
+}
+
+@article{Fishman2018,
+  title={Intrinsic Diophantine approximation on manifolds: general theory},
+  author={Fishman, Lior and Kleinbock, Dmitry and Merrill, Keith and Simmons, David},
+  journal={Transactions of the American Mathematical Society},
+  volume={370},
+  number={1},
+  pages={577--599},
+  year={2018}
+}
+
+@phdthesis{Dimitrov2017,
+  title={Diophantine approximations by special points and applications to dynamics and geometry},
+  author={Dimitrov, Vesselin Atanasov},
+  school={Yale University},
+  year={2017}
+}
+
+@article{Russell2025,
+  title={Discrete Scale Invariance in the Higgs Sector: A Multi-Channel Analysis of Phase-Coherent Modulation},
+  author={Russell, Ryan D.},
+  note={Submitted to Physical Review D},
+  year={2025}
+}
