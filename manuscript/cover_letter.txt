@@ -1,0 +1,17 @@
+Dear Editors,
+
+Please find enclosed our manuscript entitled
+“Discrete Scale Invariance in the Higgs Sector: A Multi-Channel Analysis of Phase-Coherent Modulation”
+for consideration in Physical Review D.
+
+In this work, we analyze public ATLAS and CMS Run 2 differential Higgs data and report evidence for a small, phase-coherent log-periodic modulation across multiple production and decay channels. Using conservative statistical methods and physically constrained amplitudes, we find a global preference for the signal at the 2.04σ level.
+
+A central focus of the manuscript is the explicit exclusion of alternative explanations based on transient chaos, boundary crises, strange nonchaotic attractors, or extreme-event dynamics. We show that the observed deviation is stationary, sign-reversing, and globally phase-aligned, in contrast to known nonlinear instability mechanisms.
+
+All numerical inputs are drawn from public HEPData records and are fully documented to ensure reproducibility. The accompanying appendices and repository provide detailed robustness checks and theoretical context.
+
+We believe this work will be of interest to readers concerned with precision Higgs measurements, scale invariance, and the interpretation of subtle deviations in high-energy data.
+
+Sincerely,
+
+Ryan D. Russell
