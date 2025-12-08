@@ -1,0 +1,16 @@
+\section{Exclusion of Crisis-Induced Dynamics}
+\label{app:crisis}
+
+Extreme events in nonlinear dynamical systems typically arise through interior or boundary crises of chaotic attractors. Such behavior exhibits characteristic signatures: intermittency, finite lifetimes, nonstationary statistics, and localized bursts exceeding threshold values.
+
+The Higgs modulation reported here exhibits none of these features. The deviation:
+\begin{itemize}
+\item persists across the full measured kinematic range,
+\item shows no decay or attractor switching,
+\item reverses sign periodically rather than producing unidirectional excursions,
+\item and remains phase-aligned across statistically independent datasets.
+\end{itemize}
+
+Furthermore, neural-network predictors trained on the bulk spectrum systematically overestimate rather than underestimate the tail yield. This behavior is opposite to that observed in systems exhibiting extreme events, where rare large excursions evade learning.
+
+These observations rule out known mechanisms associated with interior crises, boundary crises, strange nonchaotic attractors, and transient chaos as the source of the observed modulation.
