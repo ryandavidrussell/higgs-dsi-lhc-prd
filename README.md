@@ -45,13 +45,13 @@ Included Higgs Run-2 channels:
 - ATLAS ggF H → ZZ*
 
 This analysis does **not** claim discovery-level significance and is explicitly falsifiable with Run-3 data.
+
 ## How to Cite
 
-## 6. Citation
 If you use this code or data in your research, please cite the associated manuscript and the software archive:
 
 **Manuscript:**
 > R. D. Russell, "Discrete Scale Invariance in the Higgs Sector: A Multi-Channel Analysis of Phase-Coherent Modulation," *arXiv:2512.XXXXX* [hep-ph] (2025).
 
 **Software:**
-> R. D. Russell, "Analysis Framework: Higgs DSI Gauntlet," *Zenodo*, DOI: [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX).
+> R. D. Russell, "Analysis Framework: Higgs DSI Gauntlet," *Zenodo*, DOI: [10.5281/zenodo.17861311](https://doi.org/10.5281/zenodo.17861311).
