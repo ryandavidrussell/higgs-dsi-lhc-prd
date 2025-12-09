@@ -93,7 +93,6 @@
   year         = {2025},
   publisher    = {Zenodo},
   version      = {v1.0},
-  doi          = {10.5281/zenodo.XXXXXXX},
+  doi          = {10.5281/zenodo.17861311},
   url          = {https://github.com/ryandavidrussell/higgs-dsi-lhc-prd}
 }
-
