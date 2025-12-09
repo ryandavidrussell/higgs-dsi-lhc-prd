@@ -47,13 +47,11 @@ Included Higgs Run-2 channels:
 This analysis does **not** claim discovery-level significance and is explicitly falsifiable with Run-3 data.
 ## How to Cite
 
-If you use this code or analysis, please cite:
+## 6. Citation
+If you use this code or data in your research, please cite the associated manuscript and the software archive:
 
-@misc{russell_higgs_dsi_lhc_prd_software,
-  author       = {Ryan D. Russell},
-  title        = {higgs-dsi-lhc-prd: Analysis and manuscript package},
-  year         = {2025},
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.17861311},
-  url          = {https://doi.org/10.5281/zenodo.17861311}
-}
+**Manuscript:**
+> R. D. Russell, "Discrete Scale Invariance in the Higgs Sector: A Multi-Channel Analysis of Phase-Coherent Modulation," *arXiv:2512.XXXXX* [hep-ph] (2025).
+
+**Software:**
+> R. D. Russell, "Analysis Framework: Higgs DSI Gauntlet," *Zenodo*, DOI: [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX).
