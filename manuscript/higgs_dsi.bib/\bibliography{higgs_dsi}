@@ -86,3 +86,14 @@
   note={Submitted to Physical Review D},
   year={2025}
 }
+
+@misc{Codebase,
+  author       = {Russell, Ryan D.},
+  title        = {{Discrete Scale Invariance in the Higgs Sector: Analysis Framework and Data (v1.0)}},
+  year         = {2025},
+  publisher    = {Zenodo},
+  version      = {v1.0},
+  doi          = {10.5281/zenodo.XXXXXXX},
+  url          = {https://github.com/ryandavidrussell/higgs-dsi-lhc-prd}
+}
+
