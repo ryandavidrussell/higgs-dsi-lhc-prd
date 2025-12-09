@@ -10,7 +10,7 @@ A central focus of the manuscript is the explicit exclusion of alternative expla
 
 All numerical inputs are drawn from public HEPData records and are fully documented to ensure reproducibility. The accompanying appendices and repository provide detailed robustness checks and theoretical context.
 
-To ensure strict reproducibility and transparency, we have released the full analysis suite—including the hardcoded data arrays, covariance matrices, and the neural network validation scripts—as a permanent digital archive (DOI: [INSERT DOI]). This allows referees to independently verify the statistical significance and the exclusion of chaotic dynamical mechanisms reported in the manuscript.
+To ensure strict reproducibility and transparency, we have released the full analysis suite—including the hardcoded data arrays, covariance matrices, and the neural network validation scripts—as a permanent digital archive (DOI: 10.5281/zenodo.17861311). This allows referees to independently verify the statistical significance and the exclusion of chaotic dynamical mechanisms reported in the manuscript.
 
 We believe this work will be of interest to readers concerned with precision Higgs measurements, scale invariance, and the interpretation of subtle deviations in high-energy data.
 
