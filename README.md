@@ -49,8 +49,11 @@ This analysis does **not** claim discovery-level significance and is explicitly 
 
 If you use this code or analysis, please cite:
 
-R. D. Russell,  
-“Discrete Scale Invariance in the Higgs Sector: A Multi-Channel Analysis of Phase-Coherent Modulation,”  
-submitted to *Physical Review D* (2025).
-
-A BibTeX entry is provided in `manuscript/higgs_dsi.bib`.
+@misc{russell_higgs_dsi_lhc_prd_software,
+  author       = {Ryan D. Russell},
+  title        = {higgs-dsi-lhc-prd: Analysis and manuscript package},
+  year         = {2025},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.17861311},
+  url          = {https://doi.org/10.5281/zenodo.17861311}
+}
